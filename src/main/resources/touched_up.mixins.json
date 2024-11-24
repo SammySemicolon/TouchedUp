@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.sleepless_den.touched_up.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "touched_up.refmap.json",
+  "mixins": [
+    "EnchantingTableMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8.5"
+}

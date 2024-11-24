@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "touched_up:block/radial_enchantment_amplifier_bottom",
+    "side": "touched_up:block/radial_enchantment_amplifier_side",
+    "top": "touched_up:block/radial_enchantment_amplifier_top"
+  }
+}
