@@ -14,7 +14,7 @@ public class RadialEnchantmentAmplifierBlock extends Block {
     public static final List<BlockPos> ORIGINAL_OFFSETS = new ArrayList<>(EnchantingTableBlock.BOOKSHELF_OFFSETS);
     static {
         EnchantingTableBlock.BOOKSHELF_OFFSETS =
-                BlockPos.betweenClosedStream(-4, -1, -4, 4, 2, 4)
+                BlockPos.betweenClosedStream(-5, -1, -5, 5, 2, 5)
                 .filter(p_341357_ -> Math.abs(p_341357_.getX()) >= 2 || Math.abs(p_341357_.getZ()) >= 2)
                 .map(BlockPos::immutable)
                 .toList();
