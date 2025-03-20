@@ -23,5 +23,6 @@ public class DataGenerators {
         generator.addProvider(event.includeClient(), itemModelsProvider);
 
         generator.addProvider(event.includeClient(), new TouchedUpLangDatagen(output));
+        generator.addProvider(event.includeClient(), new TouchedUpRecipeDatagen(output, provider));
     }
 }

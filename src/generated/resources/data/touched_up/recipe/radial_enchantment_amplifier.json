@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "Y": {
+      "item": "minecraft:obsidian"
+    },
+    "Z": {
+      "tag": "c:ingots/gold"
+    }
+  },
+  "pattern": [
+    "ZXZ",
+    "XYX",
+    "ZXZ"
+  ],
+  "result": {
+    "count": 1,
+    "id": "touched_up:radial_enchantment_amplifier"
+  }
+}

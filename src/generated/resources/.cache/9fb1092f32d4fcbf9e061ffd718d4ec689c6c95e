@@ -1,0 +1,4 @@
+// 1.21.1	2025-03-09T18:45:09.923825	Recipes
+d248c5232893b08a0d5830d0f2f575fd11fe9f3a data/minecraft/advancement/recipes/root.json
+113f500acee6d91c836c22a565786ac8017abfe8 data/touched_up/advancement/recipes/misc/radial_enchantment_amplifier.json
+de224a83ae60809f979502dbaf4c9fa554d3fde3 data/touched_up/recipe/radial_enchantment_amplifier.json
